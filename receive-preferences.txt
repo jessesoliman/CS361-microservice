@@ -1,0 +1,6 @@
+{
+    "userID": "123456",
+    "recentUrls": "www.google.com",
+    "sport_pref": "Football",
+    "exportFormat": "JSON"
+}
